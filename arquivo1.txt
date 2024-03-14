@@ -1,6 +1,4 @@
 
 aula 13 março 
 
-PUC Campinas
-
 versão 0.1.0
